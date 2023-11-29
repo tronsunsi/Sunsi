@@ -111,7 +111,7 @@ Official Telegram:[@TronSuns](https://t.me/TronSuns)
 
 ## Method
  - deploy: `data:,{"p":"trc-20","op":"deploy","tick":"sunsi","max":"2000000000"}`
- - mint: `data:,{"p":"trc-20","op":"mint","tick":"sunsi","amt":"1000","txid":UniqueTransactionIdentifier}`
+ - mint: `data:,{"p":"trc-20","op":"mint","tick":"sunsi","amt":"1000","txid":UniquePurchaseTransactionIdentifier}`
  - transfer: `{
     "op": "transfer",
     "tick": "sunsi",
