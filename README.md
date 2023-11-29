@@ -105,7 +105,7 @@ Official Twitter:[@TronSuns](https://twitter.com/TronSuns)
 Official Telegram:[@TronSuns](https://t.me/TronSuns)
 
 ## Token Economic
- - Token: SUNS
+ - Token: $SUNSI
  - Supply: 2000000000
 
 
